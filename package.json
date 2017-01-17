@@ -1,0 +1,19 @@
+{
+  "name": "node_12306_wwm",
+  "version": "1.0.0",
+  "description": "12306客户端查询余票系统",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "12306"
+  ],
+  "author": "wwmin",
+  "license": "ISC",
+  "devDependencies": {
+    "node-schedule": "^1.2.0",
+    "nodemailer": "^2.7.0"
+  }
+}
