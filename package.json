@@ -15,5 +15,9 @@
   "devDependencies": {
     "node-schedule": "^1.2.0",
     "nodemailer": "^2.7.0"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "scanf": "^0.7.3"
   }
 }
